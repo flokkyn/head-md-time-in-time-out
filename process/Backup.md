@@ -32,15 +32,21 @@ Even if you have only one backup, if you are losing in a confrontation, you can 
 
 ![](image.png)
 Picture from Ace Attorney INVESTIGATIONS
+
 Here is the latest exemple of one of my games, you can see the menu of backup with "YES", "NO", "TO TITLE". The last one, allows me to easily return to the starting screen and reload my latest backup, to avoid the situation where I am losing or when I'm doing some mistakes.
 
 So that's what I mean by reversible. Backup provides to us a lot of different temporality in the same system, and so a diversity of temporality.
+
+[
+    Here is the tracker I made about me on two days, while I'm playing on this game.
+](Backup.md)
 
 ## Can we rethink the backup?
 
 Can we picture a gesture/an idea/ an object about the no-backup? An experience which can reinterpret the data memory? Make it less comfortable?
 
 ![](WW_Resetti.png)
+
 Picture from Animal Crossing Wild World
 I remembered a bad experience of backup from my childhood with Resetti from AC Wild World. It was a mole that came to lecture you if you forgot to save your game properly. It was particulary long each time, and if you smashed the A button to skip the dialog, he noticed it and told it. I know this mole wasn't a good time for everyone who played this game.
 
@@ -50,6 +56,7 @@ I imagine an experience which consists to do several backups, and to return to t
 1st draw idea/prototype
 
 The main idea I want to communicate if I would to keep this subject is to communicate and question this as a norm which means, doing a project without usuable backups will be disturbing for the users and reput in context the fact that: it's not a given. It could change and so: how can we adapt if a norm comes to no longer be one?
+
 
 ## Bibliography
 
