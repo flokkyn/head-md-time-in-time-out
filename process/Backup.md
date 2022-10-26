@@ -37,9 +37,9 @@ Here is the latest exemple of one of my games, you can see the menu of backup wi
 
 So that's what I mean by reversible. Backup provides to us a lot of different temporality in the same system, and so a diversity of temporality.
 
-[
-    Here is the tracker I made about me on two days, while I'm playing on this game.
-](Backup.md)
+![](ace.jpg)
+
+ Here is the tracker I made about me on two days, while I'm playing on this game.
 
 ## Can we rethink the backup?
 
