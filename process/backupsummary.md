@@ -4,4 +4,4 @@ I was able to observe through my questionnaires, that the backup had allowed us 
 
 If the backup no longer existed, we would still have the hand to write or draw, but if the trace left by the hand disappeared like the footprints in the sand by the sea, what would be left?
 
-![Boat Schedule](margot.png)
+![Boat Schedule](images/margot.png)(margot.png)
